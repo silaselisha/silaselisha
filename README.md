@@ -21,14 +21,10 @@ I´m Elisha Silas, Back-end Engineer.
   
   ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+- 🌱 I’m currently learning </br>
+![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
 
-### I enjoy working on
-- 📊 BackEnd Projects
-- 👯 I’m looking to collaborate on making blockchain projects with Solidity
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Node.js, TypeScript, Go, MongoDB
-- 🎉 Fun-Fact: I ❤️ Planetary Science🚀
+ - 🎉 Fun-Fact: I ❤️ Planetary Science🚀
   
 
 
