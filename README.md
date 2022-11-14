@@ -1,6 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
-I´m Elisha Silas, Back-end Engineer.
+I´m Elisha Silas.
 
 ## 🚀💻 Technologies & Tools
 
@@ -18,15 +18,6 @@ I´m Elisha Silas, Back-end Engineer.
   ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
   ![React](https://img.shields.io/badge/React-06062C?style=flat-square&logo=react)
   ![Firebase](https://img.shields.io/badge/Firebase-green?style=flat-square&logo=firebase)
-  
-  ## ⚡️ A Few Quick Facts
-
-- 🌱 I’m currently learning </br>
-![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
-
- - 🎉 Fun-Fact: I ❤️ Planetary Science🚀
-  
-
 
 ## ⚡ GitHub Stats
 
