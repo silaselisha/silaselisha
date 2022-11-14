@@ -9,15 +9,14 @@ I´m Elisha Silas.
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
   ![NodeJs](https://img.shields.io/badge/Node-green?style=flat-square&logo=node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-06062C?style=flat-square&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
-  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+  ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
   ![React](https://img.shields.io/badge/React-06062C?style=flat-square&logo=react)
-  ![Firebase](https://img.shields.io/badge/Firebase-green?style=flat-square&logo=firebase)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 ## ⚡ GitHub Stats
 
